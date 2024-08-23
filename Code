@@ -1,0 +1,22 @@
+#installing pyautogui library 
+pip install pyautogui
+#import pyautogui library
+import pyautogui
+#taking screenshot
+screenshot = pyautogui.screenshot()
+#save the screenshot
+screenshot.save(r'<give the patht to save the screenshot>')
+
+
+
+#if we want to take screenshot of some part of window
+
+#import pyautogiu library
+import pyautogui 
+#give the region
+x, y, width,height = 4,2,1000,1000 #give what you want to capture
+#taking screenshot
+screenshot = pyautogui.screenshot()
+#save the screenshot
+screenshot.save(r'<give the patht to save the screenshot>')
+
