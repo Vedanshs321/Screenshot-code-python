@@ -1,0 +1,4 @@
+we need only one library which is pyautogui library
+
+pyautogui: library used for automating the control of the mouse and keyboard. It's commonly used for automating repetitive tasks, testing user interfaces, 
+or creating simple bots that interact with graphical user interfaces (GUIs).
